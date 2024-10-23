@@ -57,11 +57,9 @@ Téléchargez les fichiers et assurez-vous que la structure du répertoire est l
 ```
 /root/angel/
     - angel.py
-    - email_test.py
     - user_info.json
-    - chathpgscriptcrypt.key
     - angel.log
-    - angelmail.log
+    - modelgpt.py
 ```
 
 ### 4. Configuration
