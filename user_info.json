@@ -1,0 +1,21 @@
+{
+    "nom": "Dupond",
+    "prenom": "Jean",
+    "date_de_naissance": "05/01/1995",
+    "lieu_de_naissance": "Paris",
+    "adresse_postale": "Rue de la paix",
+    "telephone": "+331122334455",
+    "linkedin_compte": "https://www.linkedin.com/in/dupond/",
+    "linkedin_page_pro": "https://www.linkedin.com/company/dupondpro/",
+    "facebook_compte": "https://www.facebook.com/dupond/",
+    "facebook_page": "https://www.facebook.com/dupondpro/",
+    "site_web": "https://www.dupond.uk/",
+    "activite_professionnelle": "Taxi",
+    "email": "dupond@dupond.com",
+    "openai_api_key": "12345678909876543210",
+    "twilio_account_sid": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "twilio_auth_token": "dupondduponddupond",
+    "twilio_phone_number": "+33122334455",
+    "email_logs": "dupond@dupond.com",
+    "email_password": "motdepasseemail"
+}

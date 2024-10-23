@@ -1,0 +1,7 @@
+sudo systemctl daemon-reload
+sudo systemctl enable angel.service
+sudo systemctl start angel.service
+sudo systemctl stop angel.service
+sudo journalctl -u angel.service
+sudo systemctl restart angel.service
+sudo systemctl status angel.service
